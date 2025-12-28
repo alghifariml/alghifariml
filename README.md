@@ -143,6 +143,6 @@ I'm actively seeking **remote opportunities** in web development, WordPress solu
 
 <div align="center">
 
-*⭐️ From [alghifariml](https://github.com/alghifariml) - Building the future of web, one commit at a time*
+*⭐️ From [Ghifari](https://github.com/alghifariml) - Building the future of web, one commit at a time*
 
 </div>
