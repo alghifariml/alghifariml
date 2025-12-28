@@ -74,9 +74,9 @@ Git/GitHub • Google Analytics 4 • GTM • Looker Studio • MySQL • Postgr
 
 ## 🎯 Featured Projects
 
-### 🎮 PlayByTurn - Full Stack Gaming Platform
+### 🎾 PlayByTurn - Sports Match Tracking Platform
 
-Comprehensive gaming platform with advanced backend infrastructure and modern frontend architecture.
+Full-stack application for tracking live scores and rankings for racquet sports (Tennis, Padel, Pickleball, Table Tennis, Badminton & Squash). Makes every match more fun, fair, and competitive.
 
 **Key Achievements:**
 - Built robust Backend API and Dashboard using **Laravel**
@@ -114,6 +114,8 @@ Led comprehensive website revamp with focus on SEO implementation and performanc
 ## 📈 GitHub Activity
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alghifariml&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alghifariml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
